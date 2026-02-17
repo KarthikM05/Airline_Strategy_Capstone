@@ -2,7 +2,7 @@
 
 ## Overview
 This project explores the **factors determining the success and failure of the airline industry in India**.  
-It combines literature review, text analytics, and extended business analytics (forecasting, KPIs, pricing, route optimization) to provide recommendations for upcoming airlines such as **Akasa (Rakesh Jhunjhunwala)** and **Air India (TATA Group)**.
+It combines literature review, text analytics, and extended business analytics (forecasting, KPIs, pricing, route optimization) to provide recommendations for upcoming airlines such as **Akasa** and **Air India**.
 
 ---
 
@@ -59,12 +59,6 @@ It combines literature review, text analytics, and extended business analytics (
 ## Impact
 - Provided actionable recommendations for upcoming airlines (Akasa, Air India)  
 - Showcased holistic approach: literature + data + strategy
-
----
-
-## Full Report & Presentation
-- [Capstone Report (PDF)](/docs/Capstone_Report.pdf)  
-- [Capstone Presentation (PPTX)](/docs/Capstone_Presentation.pptx)
 
 ---
 
